@@ -1,0 +1,21 @@
+{
+  "name": "Uhelyan Token List",
+  "logoURI": "https://raw.githubusercontent.com/UhelyanToken/uhleyantoken-assets/main/blockchains/smartchain/assets/0xd9192099dD8495ba7bCab5B4fa0408Baf55b673e/logo.png",
+  "keywords": ["uhyt", "uhelyan", "bnb", "token"],
+  "timestamp": "2025-07-01T11:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xd9192099dD8495ba7bCab5B4fa0408Baf55b673e",
+      "name": "Uhelyan Token",
+      "symbol": "UHYT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/UhelyanToken/uhleyantoken-assets/main/blockchains/smartchain/assets/0xd9192099dD8495ba7bCab5B4fa0408Baf55b673e/logo.png"
+    }
+  ]
+}
