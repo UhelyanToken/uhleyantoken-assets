@@ -1,1 +1,12 @@
+{
+  "name": "Uhelyan Token",
+  "symbol": "UHYT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Uhelyan Token (UHYT) is a community-driven token on the BNB Smart Chain.",
+  "website": "https://uhelyan.com",
+  "explorer": "https://bscscan.com/token/0xd9192099dd8495ba7bcab5b4fa0408baf55b673e",
+  "status": "active",
+  "id": "0xd9192099dd8495ba7bcab5b4fa0408baf55b673e"
+}
 
