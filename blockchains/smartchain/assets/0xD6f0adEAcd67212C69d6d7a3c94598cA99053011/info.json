@@ -1,0 +1,11 @@
+{
+  "name": "Uhelyan Token",
+  "symbol": "UHYT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Uhelyan Token (UHYT) is a deflationary token on BNB Chain with 5% tax per transaction: 2% to the owner, 1% burn, 2% to liquidity.",
+  "website": "https://t.me/UhelyanTokenOfficial",
+  "explorer": "https://bscscan.com/token/0xD6f0adEAcd67212C69d6d7a3c94598cA99053011",
+  "status": "active",
+  "id": "0xD6f0adEAcd67212C69d6d7a3c94598cA99053011"
+}
