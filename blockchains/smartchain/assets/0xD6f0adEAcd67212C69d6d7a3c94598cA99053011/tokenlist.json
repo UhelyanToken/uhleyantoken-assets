@@ -1,0 +1,21 @@
+{
+  "name": "Uhelyan Token List",
+  "logoURI": "https://raw.githubusercontent.com/UhelyanToken/uhleyantoken-assets/main/blockchains/smartchain/assets/0xD6f0adEAcd67212C69d6d7a3c94598cA99053011/logo.png",
+  "keywords": ["uhyt", "uhelyan", "bsc"],
+  "timestamp": "2025-07-04T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xD6f0adEAcd67212C69d6d7a3c94598cA99053011",
+      "name": "Uhelyan Token",
+      "symbol": "UHYT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/UhelyanToken/uhleyantoken-assets/main/blockchains/smartchain/assets/0xD6f0adEAcd67212C69d6d7a3c94598cA99053011/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
